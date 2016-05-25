@@ -1,4 +1,4 @@
-xterm*font: -sony-*-medium-*-*-*-24-*-*-*-*-*-*-*
+xterm*faceName: Terminus
 xterm*loginshell: true
 xterm*saveLines: 2000
-xterm*faceSize: 20
+xterm*faceSize: 25
